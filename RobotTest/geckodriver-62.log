@@ -1,0 +1,20 @@
+1687493490201	geckodriver	INFO	Listening on 127.0.0.1:61651
+1687493493260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61652" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileouZEO7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687493493682	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687493493688	Marionette	INFO	Listening on port 61659
+Read port: 61659
+WebDriver BiDi listening on ws://127.0.0.1:61652
+1687493493849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61652/devtools/browser/a792f390-d641-4342-bfec-e46eb2841e26
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 414))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.jubelio.com."
+JavaScript warning: https://app.jubelio.com/assets/bundle-4b94582027.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.jubelio.com/assets/bundle-4b94582027.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.jubelio.com."
+1687493517765	Marionette	INFO	Stopped listening on port 61659
+Dynamically enable window occlusion 1
+[Parent 29044, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787

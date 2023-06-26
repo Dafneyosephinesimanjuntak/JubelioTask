@@ -1,0 +1,20 @@
+1687489988246	geckodriver	INFO	Listening on 127.0.0.1:54671
+1687489991335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54672" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofiled4sEcR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687489991844	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687489991854	Marionette	INFO	Listening on port 54681
+Read port: 54681
+WebDriver BiDi listening on ws://127.0.0.1:54672
+1687489992024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54672/devtools/browser/b8bb832c-01fe-4906-8a53-0f1b359f4b9e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.jubelio.com."
+JavaScript warning: https://app.jubelio.com/assets/bundle-4b94582027.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.jubelio.com/assets/bundle-4b94582027.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.jubelio.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1687490274226	Marionette	INFO	Stopped listening on port 54681
+Dynamically enable window occlusion 1

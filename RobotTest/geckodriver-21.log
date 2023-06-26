@@ -1,0 +1,41 @@
+1687490223828	geckodriver	INFO	Listening on 127.0.0.1:55307
+1687490226870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55308" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofiled4mcoh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687490227369	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687490227376	Marionette	INFO	Listening on port 55322
+Read port: 55322
+WebDriver BiDi listening on ws://127.0.0.1:55308
+1687490227572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55308/devtools/browser/199099c1-826e-4406-bf42-a025f8f77a41
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.jubelio.com."
+JavaScript warning: https://app.jubelio.com/assets/bundle-4b94582027.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.jubelio.com/assets/bundle-4b94582027.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=524288, w=512, h=512)
+[GFX1-]: Handling webrender error 4
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524800, w=1024, h=433)
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=524800, w=512, h=433)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.jubelio.com."
+out of memory: 0x0000000000100000 bytes requested
+Marionette threw an error: [Exception... "Data conversion failed because significant data would be lost"  nsresult: "0x80460003 (NS_ERROR_LOSS_OF_SIGNIFICANT_DATA)"  location: "<unknown>"  data: no]
+
+console.error: "Marionette threw an error: [Exception... \"Data conversion failed because significant data would be lost\"  nsresult: \"0x80460003 (NS_ERROR_LOSS_OF_SIGNIFICANT_DATA)\"  location: \"<unknown>\"  data: no]\n"
+[GFX1-]: CompositorBridgeChild receiv[GFX1-]: Composiesto IPC close with reason=AbnormalShutdownr
+BridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1687490266541	Marionette	INFO	Stopped listening on port 55322
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown

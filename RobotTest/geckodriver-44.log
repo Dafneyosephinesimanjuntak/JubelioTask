@@ -1,0 +1,17 @@
+1687492115048	geckodriver	INFO	Listening on 127.0.0.1:58983
+1687492118100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58984" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilebNB1kp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687492118512	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687492118518	Marionette	INFO	Listening on port 58993
+Read port: 58993
+WebDriver BiDi listening on ws://127.0.0.1:58984
+1687492118669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58984/devtools/browser/1e11684f-4b6f-41b3-8a05-6fe2f90e117b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.jubelio.com."
+JavaScript warning: https://app.jubelio.com/assets/bundle-4b94582027.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.jubelio.com/assets/bundle-4b94582027.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.jubelio.com."
+1687492145638	Marionette	INFO	Stopped listening on port 58993
+Dynamically enable window occlusion 1
